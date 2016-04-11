@@ -1,0 +1,22 @@
+
+Witaj podglÜdaczu!!!
+Gra SHOOT zawiera takie pliki:
+Data\Zapis.dat-Zapis danych
+Sound\Wstëp----Gíosy
+Sound\Wstëp----Gíosy
+Bold.chr----Czcionka
+Egavga.bgi--Plik graficzny
+Pomoc.bat---Program pomocy
+Pomoc.txt---Plik tekstowy
+Scri.chr----Czcionka
+Shoot.exe---Program 
+--------------------------------------------------------------------------------
+Uwagi:
+Zbyt síaba grafika, postaç bez ruchu.
+--------------------------------------------------------------------------------
+Wynagania:
+Najlepiej kolorowy monitor , Wszystkie karty grafiki.
+
+Autor programu.
+Michaú Rygielski 
+Toru‰ 87-100  
